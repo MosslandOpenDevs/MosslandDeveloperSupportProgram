@@ -7,12 +7,12 @@
 3. Contribute positively: Contribute to the community in a positive and meaningful way. Share your knowledge, expertise, and resources with others. Help fellow members by providing constructive feedback and support.
 4. Be inclusive: Embrace diversity and create an inclusive environment where individuals from different backgrounds and skill sets feel welcome. Encourage collaboration and learning from one another.
 5. Respect intellectual property: When contributing to open-source projects, respect intellectual property rights. Ensure that you have the necessary permissions and licenses for the code or resources you share. Give proper attribution to original authors and maintain any required copyright notices.
-Engage in constructive discussions: Engage in discussions and debates with a focus on constructive feedback and problem-solving. Avoid unnecessary arguments, trolling, or derailing conversations. Stay on topic and be mindful of others' opinions.
-6. Help newcomers: Welcome newcomers to the community and offer assistance and guidance. Be patient and supportive, especially when someone is learning or asking for help. Foster a culture of mentorship and knowledge sharing.
-7. Use clear and concise communication: When communicating within the community, use clear and concise language. Be mindful of your tone and ensure your messages are easily understood. Avoid excessive jargon or technical language that may exclude or confuse others.
-8. Give credit where due: Acknowledge and give credit to fellow contributors for their work and contributions. Recognize the efforts of others and express gratitude for their valuable input. This fosters a positive and collaborative atmosphere.
-9. Report issues responsibly: If you encounter any issues within the community, such as code vulnerabilities or conduct violations, report them responsibly following the designated channels or reporting procedures. Help maintain the community's integrity and safety.
-10. Remember that these rules are just a starting point and can be adapted to fit the specific needs and values of your Mossland Open Source Community. It's important to regularly review and revise the rules to ensure they remain relevant and effective in promoting a healthy and thriving.
+6. Engage in constructive discussions: Engage in discussions and debates with a focus on constructive feedback and problem-solving. Avoid unnecessary arguments, trolling, or derailing conversations. Stay on topic and be mindful of others' opinions.
+7. Help newcomers: Welcome newcomers to the community and offer assistance and guidance. Be patient and supportive, especially when someone is learning or asking for help. Foster a culture of mentorship and knowledge sharing.
+8. Use clear and concise communication: When communicating within the community, use clear and concise language. Be mindful of your tone and ensure your messages are easily understood. Avoid excessive jargon or technical language that may exclude or confuse others.
+9. Give credit where due: Acknowledge and give credit to fellow contributors for their work and contributions. Recognize the efforts of others and express gratitude for their valuable input. This fosters a positive and collaborative atmosphere.
+10. Report issues responsibly: If you encounter a problem within the community — such as a security vulnerability or a conduct violation — report it responsibly. For security or conduct concerns, please do not open a public issue; email **contact@moss.land** instead. Help maintain the community's integrity and safety.
+11. Treat these rules as a living starting point: they can be adapted to fit the specific needs and values of the Mossland open-source community, and should be reviewed and revised periodically to keep them relevant and effective in fostering a healthy, thriving community.
 - - -
 
 ## 운영 규칙
@@ -25,5 +25,5 @@ Engage in constructive discussions: Engage in discussions and debates with a foc
 7. 도움: 커뮤니티에 새로운 이들을 환영하고 도움과 안내를 제공해주세요. 특히 누군가가 학습하거나 도움을 요청할 때에는 인내심을 갖고 지원해주세요. 멘토십과 지식 공유 문화를 육성해주세요.
 8. 의사소통: 커뮤니티 내에서 의사소통할 때에는 명확하고 간결한 언어를 사용해주세요. 톤에 주의하며 메시지가 쉽게 이해될 수 있도록 해주세요. 다른 사람들을 배제하거나 혼란스럽게 만들 수 있는 용어는 최대한 피해주세요.
 9. 인정: 동료 기여자들의 작업과 기여에 대해 인정하고 공로를 인정해주세요. 다른 사람들의 노력을 인정하고 소중한 의견을 존중해주세요. 이는 긍정적이고 협력적인 분위기를 조성합니다.
-10. 피드백: 커뮤니티 내에서 코드 취약점이나 행동 위반 등 문제가 발생하면 지정된 채널이나 보고 절차를 따라 피드백해주세요. 커뮤니티의 정당성과 안전을 유지하는 데 도움을 주세요.
+10. 문제 신고: 커뮤니티 내에서 보안 취약점이나 행동 위반 등 문제를 발견하면 책임 있게 신고해주세요. 보안·행동 관련 사안은 공개 이슈로 올리지 마시고 **contact@moss.land** 로 알려주세요. 커뮤니티의 무결성과 안전을 유지하는 데 도움을 주세요.
 11. 이 규칙들은 시작점일 뿐이며, 모스랜드 오픈 소스 커뮤니티의 특정한 필요와 가치에 맞게 수정될 수 있습니다. 건강하고 번영하는 커뮤니티를 촉진하기 위해 규칙을 정기적으로 검토하고 수정하는 것이 중요합니다.
