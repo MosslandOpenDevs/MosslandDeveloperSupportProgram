@@ -1,4 +1,4 @@
-![dsp](https://github.com/mossland/MosslandDeveloperSupportProgram/blob/main/MosslandDeveloperSupportProgram_header_img.png)
+![dsp](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram/blob/main/MosslandDeveloperSupportProgram_header_img.png)
 
 
 ## COMMUNITY RULE
