@@ -96,11 +96,11 @@ Mossland's frontier direction: reality generates the agenda, AI agents reason ov
 - **[MosslandAI](https://github.com/MosslandOpenDevs/MosslandAI)** — A research repository at the intersection of AI and Web3 — spanning DAO governance (summarization, user profiling, multi-document summarization), autonomous agents, sustainable AI, and on-chain finance.
   - → *Status:* Research
 - **[MossCoin for Machine](https://github.com/MosslandOpenDevs/MossCoinForMachine)** — Research toward a cryptocurrency ecosystem for AI and machine-to-machine networks — an early foundation for Mossland's machine-economy direction.
-  - → *Status:* Research (foundational)
-- **[MosslandXR](https://github.com/MosslandOpenDevs/MosslandXR)** — Extended Reality (AR/VR/MR) research, including pose-estimation and humanoid-robot pose studies that extend the work toward robotics.
-  - → *Status:* Research (foundational)
-- **[MossCoin AI & NFT Research](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)** — Research on an NFT platform for creating, sharing, and monetizing AI-generated creative prompts, using MOC as the currency.
-  - → *Status:* Research
+  - → *Status:* Research · [2026 update ↗](https://github.com/MosslandOpenDevs/MossCoinForMachine/blob/main/2026_State_of_the_Machine_Economy_and_Agentic_Payments.md)
+- **[MosslandXR](https://github.com/MosslandOpenDevs/MosslandXR)** — Extended Reality (AR/VR/MR) research, including pose-estimation and humanoid-robot pose studies that extend the work toward robotics and Physical AI.
+  - → *Status:* Research · [2026 update ↗](https://github.com/MosslandOpenDevs/MosslandXR/blob/main/2026_Physical_AI_and_Embodied_Intelligence.md)
+- **[MossCoin AI & NFT Research](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)** — Research on AI content provenance and on-chain IP licensing (settled in MOC) — evolved from its original AI-prompt-NFT marketplace concept.
+  - → *Status:* Research · [2026 update ↗](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research/blob/main/2026_AI_Content_Provenance_and_Onchain_IP.md)
 
 ## Official Community
 - 🌐 Website — [moss.land](https://moss.land)
@@ -209,11 +209,11 @@ Mossland's frontier direction: reality generates the agenda, AI agents reason ov
 - **[MosslandAI](https://github.com/MosslandOpenDevs/MosslandAI)** — AI와 Web3의 교차점을 연구하는 저장소입니다. DAO 거버넌스(요약, 사용자 프로파일링, 다중 문서 요약), 자율 에이전트, 지속가능한 AI, 온체인 금융 등을 아우릅니다.
   - → *상태:* 연구
 - **[MossCoin for Machine](https://github.com/MosslandOpenDevs/MossCoinForMachine)** — AI 및 기계 간(machine-to-machine) 네트워크를 위한 암호화폐 생태계 연구로, 모스랜드의 기계 경제(machine-economy) 방향성의 초기 토대입니다.
-  - → *상태:* 연구 (파운데이션)
-- **[MosslandXR](https://github.com/MosslandOpenDevs/MosslandXR)** — 확장 현실(AR/VR/MR) 연구입니다. 포즈 추정(pose estimation)과 휴머노이드 로봇 포즈 연구를 포함해 로보틱스 방향으로 확장합니다.
-  - → *상태:* 연구 (파운데이션)
-- **[MossCoin AI & NFT Research](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)** — MOC를 화폐로 사용해 AI 생성 창작 프롬프트를 만들고, 공유하고, 수익화하는 NFT 플랫폼에 대한 연구입니다.
-  - → *상태:* 연구
+  - → *상태:* 연구 · [2026 업데이트 ↗](https://github.com/MosslandOpenDevs/MossCoinForMachine/blob/main/2026_State_of_the_Machine_Economy_and_Agentic_Payments.md)
+- **[MosslandXR](https://github.com/MosslandOpenDevs/MosslandXR)** — 확장 현실(AR/VR/MR) 연구입니다. 포즈 추정(pose estimation)과 휴머노이드 로봇 포즈 연구를 포함해 로보틱스·피지컬 AI 방향으로 확장합니다.
+  - → *상태:* 연구 · [2026 업데이트 ↗](https://github.com/MosslandOpenDevs/MosslandXR/blob/main/2026_Physical_AI_and_Embodied_Intelligence.md)
+- **[MossCoin AI & NFT Research](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)** — AI 콘텐츠 프로버넌스와 온체인 IP 라이선싱(MOC 정산)에 대한 연구로, 초기의 AI 프롬프트 NFT 마켓플레이스 구상에서 발전했습니다.
+  - → *상태:* 연구 · [2026 업데이트 ↗](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research/blob/main/2026_AI_Content_Provenance_and_Onchain_IP.md)
 
 ## 커뮤니티
 - 🌐 웹사이트 — [moss.land](https://moss.land)
