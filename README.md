@@ -1,4 +1,4 @@
-![dsp](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram/blob/main/MosslandDeveloperSupportProgram_header_img.png)
+![Mossland Developer Support Program](MosslandDeveloperSupportProgram_header_img.png)
 
 ## Mossland Developer Support Program Overview
 - Mossland is actively developing a variety of services as open source to foster ecosystem growth.
