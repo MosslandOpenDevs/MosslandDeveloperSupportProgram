@@ -1,0 +1,38 @@
+<svg width="680" height="180" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Mossland Developer Support Program banner</title>
+<desc>Dark near-black banner with a green MOSS.LAND mark, a bold white DEVELOPER SUPPORT PROGRAM wordmark, green and blue accent bars, a tagline about MOC rewards for open-source contributors, and a green category line.</desc>
+<defs>
+<clipPath id="bnd"><rect x="0" y="0" width="680" height="180" rx="16"/></clipPath>
+<linearGradient id="glow" x1="0.15" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#33E6A0" stop-opacity="0"/>
+<stop offset="1" stop-color="#33E6A0" stop-opacity="0.16"/>
+</linearGradient>
+</defs>
+<g clip-path="url(#bnd)">
+<rect x="0" y="0" width="680" height="180" fill="#0a0a0f"/>
+<rect x="0" y="0" width="680" height="180" fill="url(#glow)"/>
+<line x1="48" y1="0" x2="48" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="96" y1="0" x2="96" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="144" y1="0" x2="144" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="192" y1="0" x2="192" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="240" y1="0" x2="240" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="288" y1="0" x2="288" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="336" y1="0" x2="336" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="384" y1="0" x2="384" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="432" y1="0" x2="432" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="480" y1="0" x2="480" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="528" y1="0" x2="528" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="576" y1="0" x2="576" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="624" y1="0" x2="624" y2="180" stroke="#ffffff" stroke-opacity="0.04"/>
+<line x1="0" y1="60" x2="680" y2="60" stroke="#ffffff" stroke-opacity="0.03"/>
+<line x1="0" y1="120" x2="680" y2="120" stroke="#ffffff" stroke-opacity="0.03"/>
+</g>
+<circle cx="46" cy="30" r="4" fill="#33E6A0"/>
+<text x="58" y="34" fill="#A2A8B2" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" font-size="12" font-weight="500" letter-spacing="3">MOSS.LAND</text>
+<text x="640" y="34" text-anchor="end" fill="#5F6672" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" font-size="12" letter-spacing="2">EST. 2018</text>
+<text x="40" y="100" fill="#FFFFFF" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="0.5">DEVELOPER SUPPORT PROGRAM</text>
+<rect x="40" y="116" width="46" height="5" rx="2" fill="#33E6A0"/>
+<rect x="90" y="116" width="26" height="5" rx="2" fill="#4C82F7"/>
+<text x="40" y="144" fill="#C2C7CF" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" font-size="13" letter-spacing="0.2">MOC rewards for open-source contributors to Mossland.</text>
+<text x="40" y="168" fill="#33E6A0" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" font-size="11" font-weight="500" letter-spacing="2">PROPOSE · BUILD · REVIEW · EARN MOC</text>
+</svg>
