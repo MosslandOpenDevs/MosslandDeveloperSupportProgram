@@ -1,5 +1,12 @@
 ![Mossland Developer Support Program](MosslandDeveloperSupportProgram_header_img.png)
 
+# Mossland Developer Support Program
+
+<!-- opendevs-badges:start -->
+[![Website: moss.land](https://img.shields.io/badge/Website-moss.land-2563eb?style=flat)](https://moss.land)
+[![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat)](LICENSE)
+<!-- opendevs-badges:end -->
+
 ## Mossland Developer Support Program Overview
 - Mossland is actively developing a variety of services as open source to foster ecosystem growth.
 - Originally a blockchain-based metaverse project, Mossland is now evolving into **infrastructure for the AI civilization** — agentic orchestration, Physical AI, AI media, and transparent on-chain coordination.
